@@ -1,5 +1,5 @@
 def greetCandidates():
-    print("Thanks for joining Git class")
+    print("hey! good afternoon")
 
 greetCandidates()
 # write  a code for finding prime numbers from 1 to 10
